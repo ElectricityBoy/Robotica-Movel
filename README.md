@@ -1,4 +1,7 @@
-<img src="https://media3.giphy.com/media/j0kP7fOkKQlYsXTO2r/giphy.gif" align="right" width = "150"/>
+<p align="right">
+  <img src="https://media3.giphy.com/media/j0kP7fOkKQlYsXTO2r/giphy.gif" width="150"/>
+</p>
+
 
 # Robótica Móvel 
 
@@ -12,7 +15,7 @@
 
 ### Introdução
 
-- Projeto para implementação de um Robô Pioneer 3DX com de um sistema de localização baseado em Odometria e estratégia de navegação utilizando a metologia de Braitenberg.
+- Projeto para implementação de um **Robô Pioneer 3DX** com de um sistema de localização baseado em Odometria e estratégia de navegação utilizando a metologia de Braitenberg.
 
 Estre projeto inclui:
 
